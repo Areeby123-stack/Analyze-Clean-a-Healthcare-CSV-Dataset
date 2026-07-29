@@ -7,9 +7,9 @@
 > A hands-on Python learning journey — building real, working healthcare applications week by week. Every project is **100% offline**, beginner-friendly, and built from scratch using core Python concepts. 
 
 ![Python](first.png)
-![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
-![Offline](https://img.shields.io/badge/Runs-100%25%20Offline-teal)
-![License](https://img.shields.io/badge/License-MIT-lightgrewy)
+![Status](second.png)
+![Offline](third.png)
+![License](four.png)
 
 ---
 
