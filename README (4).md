@@ -1,7 +1,7 @@
 # 🏥 Healthcare AI Informatics Specialist
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Healthcare AI Informatics Specialist Banner" width="100%">
+  <img src="healthcare_ai_informatics_banner.png" alt="Healthcare AI Informatics Specialist Banner" width="100%">
 </p>
 
 > A hands-on Python learning journey — building real, working healthcare applications week by week. Every project is **100% offline**, beginner-friendly, and built from scratch using core Python concepts. 
