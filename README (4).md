@@ -1,5 +1,9 @@
 # 🏥 Healthcare AI Informatics Specialist
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Healthcare AI Informatics Specialist Banner" width="100%">
+</p>
+
 > A hands-on Python learning journey — building real, working healthcare applications week by week. Every project is **100% offline**, beginner-friendly, and built from scratch using core Python concepts.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
@@ -35,6 +39,9 @@ healthcare-ai-informatics-specialist/
 │   ├── healthcare_sample_data.csv   # Sample messy healthcare dataset
 │   ├── healthcare_data_gui.py       # CSV Data Analyzer - Desktop GUI
 │   └── healthcare_data_web.py       # CSV Data Analyzer - Web App (Flask)
+│
+├── assets/
+│   └── banner.svg                   # Project banner image
 │
 └── README.md
 ```
