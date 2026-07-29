@@ -195,6 +195,7 @@ By completing this roadmap, the following core Python skills were practiced and 
 ---
 
 ## 📄 License
+Developed by Muhammad Areeb BSCS 
 
 This project is open-sourced for learning purposes under the [MIT License](LICENSE).
 
