@@ -1,0 +1,66 @@
+PatientID,Name,Age,Gender,BloodPressure,Cholesterol,BMI,Diagnosis,Smoker,Visit_Date
+P001,  Muhammad Areeb  ,,M,104.0,245.2,31.6,Diabetes,No,2026-07-29
+P002,  Sadia Latif  ,-79.0,Male,164.0,262.6,31.6,Asthma,No,2026-04-25
+P003,  Ayesha Siddiqui  ,28.0,Male,92.0,152.7,41.2,asthma,Yes,2026-01-24
+P004,Usman Tariq,34.0,Male,127.0,150.1,41.8,Asthma,Yes,2026-05-22
+P005,Hina Shahid,37.0,Female,165.0,,31.9,Hypertension,Yes,2026-03-01
+P006,Hina Shahid,53.0,M,148.0,202.0,17.2,Diabetes,Y,2026-06-12
+P007,  Kamran Butt  ,64.0,female,169.0,180.3,18.4,asthma,Yes,2026-02-28
+P008,Ahmed Malik,66.0,Female,140.0,199.7,41.6,hypertension,N,2026-05-08
+P009,Usman Tariq,7.0,M,140.0,238.4,27.7,obesity,no,2026-05-30
+P010,Imran Sheikh,22.0,Female,93.0,,40.5,DIABETES,N,2026-04-19
+P011,Faisal Hameed,18.0,female,98.0,152.1,,Diabetes,N,2026-05-18
+P012,Mariam Yousaf,6.0,Male,173.0,,22.3,Hypertension,Y,2026-07-15
+P013,Mariam Yousaf,64.0,Female,160.0,229.3,37.7,Heart Disease,Yes,2026-06-03
+P014,Mariam Yousaf,,Female,167.0,200.8,20.7,Diabetes,N,2026-05-05
+P015,Bilal Ahmed,8.0,M,91.0,205.3,21.4,Heart Disease,Y,2026-04-19
+P016,Hassan Raza,8.0,female,143.0,154.1,37.9,Heart Disease,no,2026-01-31
+P017,  Rabia Nawaz  ,48.0,Female,123.0,,26.3,diabetes,No,2026-01-18
+P018,  Zainab Iqbal  ,18.0,female,137.0,192.5,30.8,obesity,Y,2026-05-02
+P019,Fatima Noor,66.0,male,129.0,259.8,35.4,diabetes,N,2026-06-17
+P020,Omar Farooq,57.0,male,113.0,196.4,23.3,Asthma,No,2026-03-13
+P021,  Rabia Nawaz  ,45.0,male,118.0,254.3,17.9,Diabetes,No,2026-02-12
+P022,Sara Khan,75.0,M,98.0,250.4,21.2,heart disease,yes,2026-04-19
+P023,Sana Riaz,67.0,M,100.0,175.8,,Heart Disease,Yes,2026-07-11
+P024,Imran Sheikh,,M,124.0,252.7,31.8,Diabetes,Y,2026-01-18
+P025,  Waqas Ahmad  ,45.0,Female,117.0,,38.4,obesity,Y,2026-05-14
+P026,Omar Farooq,76.0,Female,101.0,193.0,17.7,heart disease,yes,2026-07-12
+P027,Waqas Ahmad,,male,151.0,192.3,35.0,asthma,Yes,2026-03-04
+P028,Mariam Yousaf,39.0,Male,154.0,199.8,41.3,Diabetes,No,2026-03-09
+P029,Usman Tariq,7.0,female,90.0,243.8,22.1,Hypertension,Y,2026-05-06
+P030,  Nida Aslam  ,18.0,female,,214.2,29.6,Hypertension,No,2026-07-09
+P031,Fatima Noor,19.0,male,179.0,153.3,18.8,diabetes,yes,2026-05-30
+P032,  Hina Shahid  ,67.0,Male,141.0,223.2,34.1,Diabetes,yes,2026-07-19
+P033,Bilal Ahmed,27.0,Female,104.0,248.2,21.9,Asthma,Yes,2026-02-15
+P034,Zainab Iqbal,36.0,female,160.0,187.7,20.2,diabetes,no,2026-02-26
+P035,Zainab Iqbal,70.0,Female,,231.2,23.7,Diabetes,yes,2026-03-31
+P036,Rabia Nawaz,10.0,F,117.0,254.5,20.9,DIABETES,Y,2026-03-09
+P037,Omar Farooq,-34.0,Male,151.0,220.1,37.0,obesity,No,2026-03-07
+P038,Rabia Nawaz,-66.0,Female,90.0,,21.9,asthma,Y,2026-03-22
+P039,Imran Sheikh,66.0,female,166.0,261.9,16.2,Heart Disease,No,2026-02-19
+P040,Ayesha Siddiqui,76.0,female,116.0,204.3,21.8,hypertension,no,2026-05-29
+P041,Hassan Raza,55.0,Female,133.0,181.7,20.4,Diabetes,yes,2026-05-12
+P042,  Zainab Iqbal  ,36.0,female,177.0,241.4,,hypertension,no,2026-06-06
+P043,Waqas Ahmad,66.0,Female,147.0,275.1,22.5,DIABETES,N,2026-06-26
+P044,Fatima Noor,-6.0,Male,92.0,189.1,23.4,heart disease,Yes,2026-05-23
+P045,Faisal Hameed,63.0,F,91.0,215.3,17.3,Heart Disease,no,2026-05-21
+P046,Faisal Hameed,5.0,female,108.0,238.5,29.8,Heart Disease,no,2026-06-10
+P047,Zainab Iqbal,36.0,female,159.0,181.5,33.5,DIABETES,No,2026-04-09
+P048,  Nida Aslam  ,79.0,F,145.0,180.9,34.9,Asthma,no,2026-07-17
+P049,Waqas Ahmad,28.0,Male,158.0,232.2,32.5,Asthma,no,2026-05-18
+P050,Zainab Iqbal,15.0,Female,105.0,258.6,,asthma,N,2026-06-23
+P051,Bilal Ahmed,63.0,Male,159.0,240.5,38.3,Diabetes,N,2026-04-20
+P052,  Kamran Butt  ,63.0,F,125.0,152.2,29.3,Asthma,yes,2026-07-12
+P053,Sana Riaz,23.0,Male,109.0,,32.8,hypertension,N,2026-01-18
+P054,Zainab Iqbal,56.0,Female,122.0,201.7,29.5,heart disease,N,2026-01-30
+P055,Hina Shahid,5.0,M,100.0,194.3,19.0,DIABETES,yes,2026-01-28
+P056,Kamran Butt,27.0,Male,120.0,264.1,22.7,hypertension,Yes,2026-06-28
+P057,Fatima Noor,20.0,Male,179.0,277.7,29.4,Heart Disease,N,2026-03-29
+P058,Nida Aslam,-6.0,F,90.0,162.1,39.3,Asthma,No,2026-07-07
+P059,Rabia Nawaz,41.0,Female,121.0,232.3,24.8,asthma,No,2026-01-23
+P060,Waqas Ahmad,23.0,Male,137.0,260.1,38.3,heart disease,No,2026-04-01
+P040,Ayesha Siddiqui,76.0,female,116.0,204.3,21.8,hypertension,no,2026-05-29
+P042,  Zainab Iqbal  ,36.0,female,177.0,241.4,,hypertension,no,2026-06-06
+P003,  Ayesha Siddiqui  ,28.0,Male,92.0,152.7,41.2,asthma,Yes,2026-01-24
+P049,Waqas Ahmad,28.0,Male,158.0,232.2,32.5,Asthma,no,2026-05-18
+P051,Bilal Ahmed,63.0,Male,159.0,240.5,38.3,Diabetes,N,2026-04-20
